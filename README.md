@@ -64,15 +64,19 @@ Model Training
 
 Model
 Train and test accuracy
+
 Decision Tree Classifier
 test: 0.8394080570019183
 train: 0.8615987037537132
+
 Random Forest Classifier
 test: 0.8385859139490272
 train: 0.8556575749392384
+
 KNN classifier
 test: 0.8095368594135379
 train: 0.8320280853362139
+
 Gradient Boosting classifier
 test: 0.8470813921622362
 train: 0.8649743451255738
@@ -83,7 +87,5 @@ API hosting for trained model
 API is hosted on pythonanywhere.com
 API link - https://phishingurl.pythonanywhere.com/phishing 
 Accepts POST requests JSON format URL as INPUT
-
-
 
 
